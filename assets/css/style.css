@@ -55,7 +55,7 @@ Header
 /* ----- nav ----- */
 header nav {
     background-color: #fff;
-    height: 5vh;
+    height: 8vh;
     display: grid;
     place-items: center right;
     /* position: fixed;
